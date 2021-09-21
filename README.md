@@ -1,2 +1,3 @@
-# hellow-world
-练习
+# 外星人大战练习
+Python版本
+
